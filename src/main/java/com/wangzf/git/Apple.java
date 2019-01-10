@@ -3,6 +3,7 @@ package com.wangzf.git;
 public class Apple {
 
 	public void sayHello() {
-		System.out.println("hello worldd");
+		System.out.println("hello Boy~");
+		
 	}
 }
